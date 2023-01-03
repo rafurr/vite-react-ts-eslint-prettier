@@ -34,10 +34,10 @@ const Hello = () => {
         <a
           style={{ color: '#F24C4C' }}
           target='_blank'
-          href='https://github.com/igdev116/vite-react-ts-eslint-prettier'
+          href='https://github.com/rafurr/vite-react-ts-eslint-prettier'
           rel='noreferrer'
         >
-          Github
+          Github (rafurr)
         </a>
       </div>
     </div>
